@@ -1,10 +1,10 @@
-نخبة Windscribe أداة | حماية تسرب DNS + دعم التورنت هو أفضل Windscribe أداة مع حماية تسرب DNS و دعم التورنت. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/windscribe-gp40/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
