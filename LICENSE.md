@@ -1,10 +1,10 @@
-精英Windscribe工具 | DNS泄露保护 + 种子支持 是最佳 Windscribe 工具，集成 DNS泄露保护 和 种子支持。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/windscribe-gp40/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
